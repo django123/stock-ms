@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-configurations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-configurations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-entities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-entities/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-exceptions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-exceptions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-helpers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-helpers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-manage-materials" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-manage-materials/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-manage-products" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-manage-products/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-manage-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-manage-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-models" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-models/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-repositories" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/liss-nvms-repositories/src/main/java" charset="UTF-8" />
+  </component>
+</project>
